@@ -1,5 +1,8 @@
 
 ## ABOUT ME
+<p>
+<img src="IMG_6084-1.jpg" width="150" height="250" align="right"/>
+</p>
 I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks.  
 I am interested in full time Software Engineering and Research Scientist positions in the domain of Deep Learning.
 
