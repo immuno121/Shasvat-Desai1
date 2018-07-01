@@ -1,7 +1,7 @@
 
 ## ABOUT ME
-
-I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks. 
+I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks.  
+I am interested in full time opportunities in Software Engineering and Research Scientists positions in the domain of Deep Learning.
 
 ## EXPERIENCE
 ### Natural Language Processing Research Intern
@@ -21,7 +21,6 @@ _Supervisor:_ [Prof. Eliot B. Moss](https://people.cs.umass.edu/~moss/)
 Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software used in the LEXT Industrial Confocal Laser Microscope
 
 ## SKILLS
-
 - **Languages:** Java, Python, C, C++, MATLAB, C#, R,  Javascript, HTML, CSS
 - **Frameworks:** Keras, Pytorch, Tensorflow, .NET, Hadoop, MapReduce, Git
 
