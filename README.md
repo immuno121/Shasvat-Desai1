@@ -11,7 +11,7 @@ I am interested in full time opportunities in Software Engineering and Research 
 
 ### Deep Learning Researcher
 ***School of Computer and Information Sciences, UMass Amherst, USA*** 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	 			             	Spring 2018    
-_Supervisor:_ [Prof. Eliot B. Moss](https://people.cs.umass.edu/~moss/)  
+_Advisor:_ [Prof. Eliot B. Moss](https://people.cs.umass.edu/~moss/)  
 -	Analysed waveforms of memory traces generated from cache memory accesses of the program to model the underlying behavior of computer programs under Professor Eliot Moss  
 - Applied Sequence Modelling techniques- **RNN, LSTM, Sequential autoencoders and Statistical models- ARIMA** to model the time dependent nature of the memory traces and cluster similar computer programs
 
@@ -28,11 +28,11 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 
 **University of Massachusetts, Amherst** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                          *Fall 2017-Fall 2019*  
 *Masters of Science, Computer Science*	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;						        GPA:3.95/4.0  
-_Relevant Courses_: Deep Learning, Computer Vision, Machine Learning, Algorithms of Data Science, Intelligent Visual Computing (3D Computer Vision), Natural Language Processing, Reinforcement Learning
+__Relevant Courses__: Deep Learning, Computer Vision, Machine Learning, Algorithms of Data Science, Intelligent Visual Computing (3D Computer Vision), Natural Language Processing, Reinforcement Learning
 
 **Veermata Jijabai Technological Institute (V.J.T.I), Mumbai, India** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                         *Fall 2013-Fall 2017*                                         
 *Bachelor of Technology, Computer Science* &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 						        CGPA:8.65/10  
-_Relevant Courses_: Network Management Systems, Engineering Mathematics, Discrete Mathematics, Artificial Intelligence and Data Mining, Algorithms, Cloud Computing, Operating Systems, Web Development
+__Relevant Courses__: Network Management Systems, Engineering Mathematics, Discrete Mathematics, Artificial Intelligence and Data Mining, Algorithms, Cloud Computing, Operating Systems, Web Development
 
 ## PROJECTS
 
