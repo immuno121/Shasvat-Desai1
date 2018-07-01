@@ -11,11 +11,16 @@
 
 •	Prototyping the development of a Generative Chatbot model to automate the process of answering the questions asked by medicine practitioners, pharmacists, pharamaceutical  sales representatives and patients.
 
+### Deep Learning Researcher
+**School of Computer and Information Sciences, UMass Amherst** 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	 			             	Spring 2018
+
+•	Performing analysis of waveforms of memory traces generated from cache memory accesses of the program to model the underlying behavior of computer programs under Professor Eliot Moss
+
+•	Applied Sequence Modelling techniques- RNN, LSTM, Sequential autoencoders and Statistical models- ARIMA to model the time dependent nature of the memory traces and cluster similar computer programs
+
 Wipro Technologies, Pune, India – Computer Vision Intern                                                     May 2016– July 2016
 •	Used C# ,C++ and OpenCV to develop modules for the Image Processing software used in the LEXT Industrial Confocal Laser Microscope
-Deep Learning Researcher- CICS, UMass Amherst 		 			             	Spring 2018
-•	Performing analysis of waveforms of memory traces generated from cache memory accesses of the program to model the underlying behavior of computer programs under Professor Eliot Moss
-•	Applied Sequence Modelling techniques- RNN, LSTM, Sequential autoencoders and Statistical models- ARIMA to model the time dependent nature of the memory traces and cluster similar computer programs
+
 
 ## EDUCATION
 University of Massachusetts Amherst                                                                                     Fall 2017-Fall 2019 Masters of Science in Computer Science							        (GPA:3.95/4.0)
