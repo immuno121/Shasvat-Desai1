@@ -55,13 +55,13 @@ Image Segmentation in Keras Framework on [PASCAL VOC](http://host.robots.ox.ac.u
 
 #### Question Answering  on SQuAD						 	      	
 [Code](https://github.com/immuno121/allennlp) | [Report]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018*  
-- Developed a novel architecture through modification of the **BiDAF Network** using PyTorch framework  
+- Developed a novel architecture through modification of the **BiDAF Network** using PyTorch framework on the [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) 
 - Leveraged the power of self attention used in **Tranformer Networks** and exploited the **Dependency Parse** structure of the text to achieve a 1.3% improvement in the F1 score over the original BiDAF model
 
 #### Automatic Generation of Highlights from a Sports Video 				             	 
 [Code](https://github.com/immuno121/Automatic-highlight-generation-from-Sports-Videos/tree/master/code) | [Report](https://github.com/immuno121/Automatic-highlight-generation-from-Sports-Videos/blob/master/project%20report/automated-sports-highlight.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Fall 2017*  
 - Automated the task for generating highlights of a game by recognizing audience reactions to the
-events during the game play, using a **3D  Convolutional Neural Networks** in the Keras framework  
+events during the game play, using a **3D  Convolutional Neural Networks** in the Keras framework on the [SHOCK Dataset](http://vips.sci.univr.it/dataset/shock/)  
 - Experimented with transfer learning techniques by Fine tuning the models pretrained on action recognition datasets
 
 ## ACHIEVEMENTS
