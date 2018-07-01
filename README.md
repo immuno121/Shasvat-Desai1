@@ -36,23 +36,23 @@ _Relevant Courses_: Network Management Systems, Engineering Mathematics, Discret
 ## PROJECTS
 
 #### Telekinesis- A Multiuser and Multiclass Classification of EEG data			          
-[Code](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation)|[Report](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation/blob/master/Project%20report/Project%20Report.pdf)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *May 2018-Present*  
+[Code]() | [Report]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *May 2018-Present*  
 
 •	Using a cascaded and  parallel Convolutional Recurrent architecture using the learned representation from Variational Autoencoders to generalizing the EEG data for various  multiuser and multiclass classification instead of training a model on a subject specific data
 
 #### A Comparitive Study of Architectures for 2D Image Segmentation			      	
-[Code]()|[Report]() *Spring 2018*  
+[Code](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation)|[Report](](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation/blob/master/Project%20report/Project%20Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018*  
 •	Performed a comparative study of various Deep Learning models- FCN, U-Net, Dilated Convolutions, Dense Nets by modifying them for 
 Image Segmentation in Keras Framework on PASCAL VOC dataset
 •	Utilized the power of transfer learning techniques and achieved improvement in the performance in U-Net  
 
 #### Question Answering  on SQuAD						 	      	
-[Code]()|[Report]() *Spring 2018*  
+[Code](https://github.com/immuno121/allennlp)|[Report]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018*  
 •	Developed a novel architecture through modification of the BiDAF Network using PyTorch framework
 •	Leveraged the power of self attention used in Tranformer Networks and exploited the Dependency Parse structure of the text to achieve a 1.3% improvement in the F1 score over the original BiDAF model
 
 #### Automatic Generation of Highlights from a Sports Video 				             	 
-[Code]()|[Report]() *Fall 2017*  
+[Code](https://github.com/immuno121/Automatic-highlight-generation-from-Sports-Videos/tree/master/code)|[Report](https://github.com/immuno121/Automatic-highlight-generation-from-Sports-Videos/blob/master/project%20report/automated-sports-highlight.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Fall 2017*  
 •	Automated the task for generating highlights of a game by recognizing audience reactions to the
 events during the game play, using a 3D  Convolutional Neural Networks in the Keras framework
 •	Experimented with transfer learning techniques by Fine tuning the models pretrained on action recognition datasets
