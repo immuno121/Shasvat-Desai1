@@ -25,7 +25,9 @@
 
 ## EDUCATION
 
-**University of Massachusetts, Amherst** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                          Fall 2017-Fall 2019 Masters of Science in Computer Science							        (GPA:3.95/4.0)
+**University of Massachusetts, Amherst** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                                                          Fall 2017-Fall 2019 
+
+Masters of Science in Computer Science							        (GPA:3.95/4.0)
 Relevant Courses: Deep Learning, Computer Vision, Machine Learning, Algorithms of Data Science, Intelligent Visual Computing(3D Computer Vision), Natural Language Processing, Reinforcement Learning
 
 Veermata Jijabai Technological Institute (V.J.T.I), Mumbai, India                                             Fall 2013-Fall 2017                                       
