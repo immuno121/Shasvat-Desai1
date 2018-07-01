@@ -1,7 +1,7 @@
 
 ## ABOUT ME
 I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks.  
-I am interested in full time opportunities in Software Engineering and Research Scientists positions in the domain of Deep Learning.
+I am interested in full time Software Engineering and Research Scientist positions in the domain of Deep Learning.
 
 ## EXPERIENCE
 ### Natural Language Processing Research Intern
