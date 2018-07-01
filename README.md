@@ -4,7 +4,9 @@
 <img src="IMG_6084-1.jpg" width="250" height="155" align="right"/>
 </p>
 I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks.  
-I am interested in full time Software Engineering and Research Scientist positions in the domain of Deep Learning.
+I am interested in full time Software Engineering and Research Scientist positions in the domain of Deep Learning.  
+
+My comprehensive resume is available [here](). 
 
 ## EXPERIENCE
 ### Natural Language Processing Research Intern
@@ -68,3 +70,7 @@ events during the game play, using a **3D  Convolutional Neural Networks** in th
 
 ## ACHIEVEMENTS
 - Awarded the [DAAD RISE Professional Scholarship 2018](https://www.daad.de/rise/en/rise-professional/)- Opportunity to intern at the headquarters of  Bayer Business Services Research laboratory in Germany as an NLP intern for Summer 2018
+
+## CONTACT
+
+[LinkedIN](https://www.linkedin.com/in/shasvat-desai/)  |  [GitHub](https://www.linkedin.com/in/shasvat-desai/) |  <a href="mailto:shasvatmukes@umass.edu" target="_top">E-Mail</a>
