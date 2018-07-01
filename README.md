@@ -5,13 +5,12 @@ I am a graduate student of Computer Science at University of Massachusetts, Amhe
 
 ## EXPERIENCE
 ### Natural Language Processing Intern
-**Bayer Business Services, Leverkusen, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         June 2018-Present
-
+**Bayer Business Services, Leverkusen, Germany** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         June 2018-Present  
 -	Working on a research project involving identification of use cases of pharmaceutical products of Bayer using classification algorithms on their text corpus of medical data  
 -	Prototyping the development of a Generative Chatbot model to automate the process of answering the questions asked by medicine practitioners, pharmacists, pharamaceutical  sales representatives and patients.
 
 ### Deep Learning Researcher
-**School of Computer and Information Sciences, UMass Amherst, USA** 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	 			             	Spring 2018  
+**School of Computer and Information Sciences, UMass Amherst, USA** 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	 			             	Spring 2018    
 -	Performing analysis of waveforms of memory traces generated from cache memory accesses of the program to model the underlying behavior of computer programs under Professor Eliot Moss  
 - Applied Sequence Modelling techniques- RNN, LSTM, Sequential autoencoders and Statistical models- ARIMA to model the time dependent nature of the memory traces and cluster similar computer programs
 
