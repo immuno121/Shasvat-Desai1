@@ -73,4 +73,4 @@ events during the game play, using a **3D  Convolutional Neural Networks** in th
 
 ## CONTACT
 
-[LinkedIn](https://www.linkedin.com/in/shasvat-desai/)  |  [GitHub](https://www.linkedin.com/in/shasvat-desai/) |  <a href="mailto:shasvatmukes@umass.edu" target="_top">E-Mail</a>
+[LinkedIn](https://www.linkedin.com/in/shasvat-desai/)  |  [GitHub](https://github.com/immuno121) |  <a href="mailto:shasvatmukes@umass.edu" target="_top">E-Mail</a>
