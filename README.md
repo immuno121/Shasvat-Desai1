@@ -27,8 +27,10 @@ _Advisor:_ [Prof. Eliot B. Moss](https://people.cs.umass.edu/~moss/)
 Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software used in the LEXT Industrial Confocal Laser Microscope
 
 ## SKILLS
-- **Languages:** | Java | Python | C | C++ | MATLAB | C# | R | Javascript | HTML | CSS
-- **Frameworks:** | Keras | Pytorch | Tensorflow | .NET | Hadoop | MapReduce | Git
+- **Languages:**   
+| Java | Python | C | C++ | MATLAB | C# | R | Javascript | HTML | CSS |
+- **Frameworks:**  
+| Keras | Pytorch | Tensorflow | .NET | Hadoop | MapReduce | Git |
 
 ## EDUCATION
 
