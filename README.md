@@ -4,7 +4,7 @@
 <img src="IMG_6084-1.jpg" width="250" height="155" align="right"/>
 </p>
 I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks.    
-I am currently working as a Natural Language Processing Intern at Bayer Business Sevices in Leverkusen, Germany. 
+I am currently working as a Natural Language Processing Intern at Bayer Business Sevices in Leverkusen, Germany.  
 I am interested in full time Software Engineering and Research Scientist positions in the domain of Deep Learning.  
 
 My comprehensive resume is available [here](). 
@@ -15,7 +15,7 @@ My comprehensive resume is available [here]().
 -	Identifying of use cases of pharmaceutical products of Bayer using classification algorithms on their text corpus of medical data  
 -	Prototyping the development of a **Generative Chatbot model** to automate the process of answering the questions asked by medicine practitioners, pharmacists, pharamaceutical  sales representatives and patients.
 
-### Deep Learning Researcher
+### Deep Learning Research Assistant
 ***School of Computer and Information Sciences, UMass Amherst, USA*** 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	 			             	Spring 2018    
 _Advisor:_ [Prof. Eliot B. Moss](https://people.cs.umass.edu/~moss/)  
 -	Analysed waveforms of memory traces generated from cache memory accesses of the program to model the underlying behavior of computer programs under Professor Eliot Moss  
@@ -28,9 +28,9 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 
 ## SKILLS
 - **Languages:**   
-| Java | Python | C | C++ | MATLAB | C# | R | Javascript | HTML | CSS 
+              | Java | Python | C | C++ | MATLAB | C# | R | Javascript | HTML | CSS 
 - **Frameworks:**  
-| Keras | Pytorch | Tensorflow | .NET | Hadoop | MapReduce | Git 
+              | Keras | Pytorch | Tensorflow | .NET | Hadoop | MapReduce | Git 
 
 ## EDUCATION
 
