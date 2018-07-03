@@ -28,9 +28,9 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 
 ## SKILLS
 - **Languages:**   
-| Java | Python | C | C++ | MATLAB | C# | R | Javascript | HTML | CSS |
+| Java | Python | C | C++ | MATLAB | C# | R | Javascript | HTML | CSS 
 - **Frameworks:**  
-| Keras | Pytorch | Tensorflow | .NET | Hadoop | MapReduce | Git |
+| Keras | Pytorch | Tensorflow | .NET | Hadoop | MapReduce | Git 
 
 ## EDUCATION
 
