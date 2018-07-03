@@ -3,7 +3,8 @@
 <p>
 <img src="IMG_6084-1.jpg" width="250" height="155" align="right"/>
 </p>
-I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks.  
+I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks.    
+I am currently working as a Natural Language Processing Intern at Bayer Business Sevices in Leverkusen, Germany. 
 I am interested in full time Software Engineering and Research Scientist positions in the domain of Deep Learning.  
 
 My comprehensive resume is available [here](). 
