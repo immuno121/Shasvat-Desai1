@@ -26,8 +26,8 @@ _Advisor:_ [Prof. Eliot B. Moss](https://people.cs.umass.edu/~moss/)
 Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software used in the LEXT Industrial Confocal Laser Microscope
 
 ## SKILLS
-- **Languages:** Java, Python, C, C++, MATLAB, C#, R,  Javascript, HTML, CSS
-- **Frameworks:** Keras, Pytorch, Tensorflow, .NET, Hadoop, MapReduce, Git
+- **Languages:** | Java | Python | C | C++ | MATLAB | C# | R | Javascript | HTML | CSS
+- **Frameworks:** | Keras | Pytorch | Tensorflow | .NET | Hadoop | MapReduce | Git
 
 ## EDUCATION
 
@@ -43,9 +43,9 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 
 #### Telekinesis - A Multi User and Multi Class Classification of EEG data			          
 [Code]() | [Report]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *May 2018-Present*   
-Using a cascaded and  parallel Convolutional Recurrent architecture using the learned representation from Variational Autoencoders to generalizing the EEG data for various  multiuser and multiclass classification instead of training a model on a subject specific data
+- Using a cascaded and  parallel Convolutional Recurrent architecture using the learned representation from Variational Autoencoders to generalizing the EEG data for various  multiuser and multiclass classification instead of training a model on a subject specific data
 
-### Analysis of Computer Program Behaviors using Sequence Modelling Techniques
+#### Analysis of Computer Program Behaviors using Sequence Modelling Techniques
 [Code]() | [Report]()
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018* 
  
