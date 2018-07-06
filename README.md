@@ -66,7 +66,7 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 Image Segmentation in Keras Framework on [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) dataset    
 - Utilized the power of transfer learning techniques and achieved improvement in the performance in U-Net 
 <p>
-<img src="segmentation.PNG" width="250" height="155" align="right"/>
+<img src="segmentation.PNG"/>
 </p>
 
 #### Question Answering  on SQuAD						 	      	
