@@ -51,10 +51,10 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 <img src="telekinesis.PNG"/>
 </p>
 
-#### Analysis of Computer Program Behaviors using Sequence Modelling Techniques
 <p>
 <img src="chaos.PNG" width="250" height="155" align="right"/>
 </p>
+#### Analysis of Computer Program Behaviors using Sequence Modelling Techniques
 [Report](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/696C.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018* 
 
