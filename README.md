@@ -81,7 +81,7 @@ Image Segmentation in Keras Framework on [PASCAL VOC](http://host.robots.ox.ac.u
 events during the game play, using a **3D  Convolutional Neural Networks** in the Keras framework on the [SHOCK Dataset](http://vips.sci.univr.it/dataset/shock/)  
 - Experimented with transfer learning techniques by Fine tuning the models pretrained on action recognition datasets
 <p>
-<img src="sports.PNG"/>
+<img src="sports.PNG" height="350"/>
 </p>
 
 ## ACHIEVEMENTS
