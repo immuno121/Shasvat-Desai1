@@ -47,8 +47,14 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 #### Telekinesis - A Multi User and Multi Class Classification of EEG data			          
 [Code]() | [Report]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *May 2018-Present*   
 - Using a cascaded and  parallel Convolutional Recurrent architecture using the learned representation from Variational Autoencoders to generalizing the EEG data for various  multiuser and multiclass classification instead of training a model on a subject specific data
+<p>
+<img src="telekinesis.PNG" width="250" height="155" align="right"/>
+</p>
 
 #### Analysis of Computer Program Behaviors using Sequence Modelling Techniques
+<p>
+<img src="chaos.PNG" width="250" height="155" align="right"/>
+</p>
 [Report](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/696C.pdf)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018* 
 
@@ -60,10 +66,16 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 [Code](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation) | [Report](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation/blob/master/Project%20report/Project%20Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018*  
 - Performed a comparative study of various Deep Learning models- **FCN, U-Net, Dilated Convolutions, Dense Nets** by modifying them for 
 Image Segmentation in Keras Framework on [PASCAL VOC](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/) dataset    
-- Utilized the power of transfer learning techniques and achieved improvement in the performance in U-Net  
+- Utilized the power of transfer learning techniques and achieved improvement in the performance in U-Net 
+<p>
+<img src="segmentation.PNG" width="250" height="155" align="right"/>
+</p>
 
 #### Question Answering  on SQuAD						 	      	
-[Code](https://github.com/immuno121/allennlp) | [Report](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/Project_Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018*  
+[Code](https://github.com/immuno121/allennlp) | [Report](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/Project_Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018* 
+<p>
+<img src="bidaf.PNG" width="250" height="155" align="right"/>
+</p>
 - Developed a novel architecture through modification of the **BiDAF Network** using PyTorch framework on the [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) 
 - Leveraged the power of self attention used in **Tranformer Networks** and exploited the **Dependency Parse** structure of the text to achieve a 1.3% improvement in the F1 score over the original BiDAF model
 
@@ -72,6 +84,9 @@ Image Segmentation in Keras Framework on [PASCAL VOC](http://host.robots.ox.ac.u
 - Automated the task for generating highlights of a game by recognizing audience reactions to the
 events during the game play, using a **3D  Convolutional Neural Networks** in the Keras framework on the [SHOCK Dataset](http://vips.sci.univr.it/dataset/shock/)  
 - Experimented with transfer learning techniques by Fine tuning the models pretrained on action recognition datasets
+<p>
+<img src="sports.PNG" width="250" height="155" align="right"/>
+</p>
 
 ## ACHIEVEMENTS
 - Awarded the [DAAD RISE Professional Scholarship 2018](https://www.daad.de/rise/en/rise-professional/)- Opportunity to intern at the headquarters of  Bayer Business Services Research laboratory in Germany as an NLP intern for Summer 2018
