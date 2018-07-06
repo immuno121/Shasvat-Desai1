@@ -48,7 +48,7 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 [Code]() | [Report]() &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *May 2018-Present*   
 - Using a cascaded and  parallel Convolutional Recurrent architecture using the learned representation from Variational Autoencoders to generalizing the EEG data for various  multiuser and multiclass classification instead of training a model on a subject specific data
 <p>
-<img src="telekinesis.PNG" width="250" height="155" align="right"/>
+<img src="telekinesis.PNG"/>
 </p>
 
 #### Analysis of Computer Program Behaviors using Sequence Modelling Techniques
