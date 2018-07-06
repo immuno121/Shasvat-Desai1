@@ -59,7 +59,7 @@ Used **C# ,C++ and OpenCV** to develop modules for the Image Processing software
 - Predicted the next blocks of cache memory accessed by the program based on the nature of memory access in the past
 - Used LSTM and sequential autoencoders to model the time sequence data generated from cache memory traces.
 <p>
-<img src="chaos.PNG"/>
+<img src="chaos.PNG" align="left"/>
 </p>
 #### A Comparative Study of Architectures for 2D Image Segmentation			      	
 [Code](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation) | [Report](https://github.com/immuno121/A-Comparative-Study-of-Architectures-for-2D-Image-Semantic-Segmentation/blob/master/Project%20report/Project%20Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018*  
