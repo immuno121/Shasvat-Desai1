@@ -71,7 +71,7 @@ Image Segmentation in Keras Framework on [PASCAL VOC](http://host.robots.ox.ac.u
 
 #### Question Answering  on SQuAD						 	      	
 [Code](https://github.com/immuno121/allennlp) | [Report](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/Project_Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018* 
-<img src="bidaf.PNG" width="250" height="155" align="right"/>
+<img src="bidaf.PNG" width="300" height="300" align="right"/>
 - Developed a novel architecture through modification of the **BiDAF Network** using PyTorch framework on the [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) 
 - Leveraged the power of self attention used in **Tranformer Networks** and exploited the **Dependency Parse** structure of the text to achieve a 1.3% improvement in the F1 score over the original BiDAF model
 
