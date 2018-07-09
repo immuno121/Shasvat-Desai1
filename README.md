@@ -73,7 +73,7 @@ Image Segmentation in Keras Framework on [PASCAL VOC](http://host.robots.ox.ac.u
 [Code](https://github.com/immuno121/allennlp) | [Report](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/Project_Report.pdf) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Spring 2018* 
 <img src="bidaf.PNG" width="300" height="300" align="right"/>
 - Developed a novel architecture through modification of the **BiDAF Network** using PyTorch framework on the [Stanford Question Answering Dataset](https://rajpurkar.github.io/SQuAD-explorer/) and Spacy library
-- Leveraged the power of self attention used in **Tranformer Networks**(https://arxiv.org/abs/1706.03762) and exploited the **Dependency Parse** structure of the text to enhcance the performance of the model
+- Leveraged the power of self attention used in [**Tranformer Networks**](https://arxiv.org/abs/1706.03762) and exploited the **Dependency Parse** structure of the text to enhcance the performance of the model
 - Achieved an F1 score of 72.14 by adding a dependency parse layer, implemented with transformer, to BiDAF - an improvement over AllenAI's BiDAF model's score of 71.49
 
 #### Automatic Generation of Highlights from a Sports Video 				             	 
