@@ -18,8 +18,8 @@ Summer 2018 - Received the DAAD RISE Professional Scholarship - 2018 to pursue a
 Fall 2017 - Started Masters in Computer Science at University of Massachsetts, Amherst,
 
 ## EXPERIENCE
-### Research Assistant at the Information-Fusion-Lab
-***College of Information and Computer Sciences, UMass Amherst*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         September 2018-Present  
+### Research Assistant at the [Information-Fusion-Lab](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/)
+***College of Information and Computer Sciences, UMass Amherst*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         September 2018-Present  
 
 Worked on the task of Pedestrian detection in Multispectral Images.
 
@@ -27,10 +27,9 @@ I was advised by Dr.Madalina Fiterau[ https://www.cics.umass.edu/people/fiterau-
 
 Recently, our paper got accepted in PBVS workshop at  CVPR 2019 for the novel work on the use of Saliency Maps, generated using Deep Saliency network,  along with the thermal images to improve the daytime performance on thermal images for the task of Pedestrian Detection. 
 
-More information about this project can be found on our project [website](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/)
-
 ### Natural Language Processing Research Intern
 ***Bayer Business Services, Leverkusen, Germany*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         June 2018-August 2018  
+
 -	Identifying use cases of pharmaceutical products of Bayer using classification algorithms on their text corpus of medical data  
 -	Prototyping the development of a **Generative Chatbot model** to automate the process of answering the questions asked by medicine practitioners, pharmacists, pharamaceutical  sales representatives and patients.
 
