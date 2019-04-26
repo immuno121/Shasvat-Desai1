@@ -18,10 +18,10 @@ Summer 2018 - Received the DAAD RISE Professional Scholarship - 2018 to pursue a
 Fall 2017 - Started Masters in Computer Science at University of Massachsetts, Amherst,
 
 ## EXPERIENCE
-### Research Assistant at the [Information-Fusion-Lab](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/)
+### Research Assistant at the Information-Fusion-Lab
 ***College of Information and Computer Sciences, UMass Amherst*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         September 2018-Present  
 
-Worked on the task of Pedestrian detection in Multispectral Images.
+Worked on the task of [Pedestrian detection](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/) in Multispectral Images.
 
 I was advised by Dr.Madalina Fiterau[ https://www.cics.umass.edu/people/fiterau-brostean-madalina] and Dr. Tauhidur Rahman[http://www.tauhidurrahman.com/]  
 
