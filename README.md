@@ -3,15 +3,30 @@
 <p>
 <img src="IMG_6084-1.jpg" width="250" height="155" align="right"/>
 </p>
-I am a graduate student of Computer Science at University of Massachusetts, Amherst specializing in applying Deep Learning Techniques for Computer Vision and Natural Language Processing tasks. 
-I am currently working as a Natural Language Processing Intern at Bayer Business Sevices in Leverkusen, Germany.  
-I am interested in full time Software Engineering and Research Scientist positions in the domain of Deep Learning.  
-
+Graduate student of Computer Science at  University of Massachusetts Amherst, 
+My areas of interests include the application of Machine Learning and Computer Vision.  Currently, I have been working on the task of Pedestrian Detection in Multispectral Images and recently, my paper got accepted in a workshop at  CVPR 2019.
 My comprehensive resume is available [here](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/Shasvat_Desai_Resume.pdf). 
+## NEWS
+April 2019 - Will start working as a Software Engineer(Computer Vision) at [Orbital Insights,Boston MA](https://orbitalinsight.com/)
+April 2019 - Our [paper](https://arxiv.org/pdf/1904.06859.pdf) Pedestrian Detection in Thermal Images using Saliency Maps accepted to the IEEE Workshop on Perception Beyond the Visible Spectrum at CVPR, 2019 (Long Beach, California).
+Authors:[Debasmita Ghose](https://github.com/DebasmitaGhose/Debasmita-Ghose),[Deep Chakrobarty](https://deepc94.github.io/),[Sneha Bhattachrya](https://github.com/snehabhattacharya),
+Summer 2018 - Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with BayerBusiness Services GmBH, Colonge, Germany
+Fall 2017 - Started Masters in Computer Science at University of Massachsetts, Amherst
 
 ## EXPERIENCE
+### Research Assistant at the Information-Fusion-Lab
+***College of Information and Computer Sciences, UMass Amherst***&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         September 2018-Present  
+
+Worked on the task of Pedestrian detection in Multispectral Images.
+
+I was advised by Dr.Madalina Fiterau[ https://www.cics.umass.edu/people/fiterau-brostean-madalina] and Dr. Tauhidur Rahman[http://www.tauhidurrahman.com/]  
+
+Recently, our paper got accepted in PBVS workshop at  CVPR 2019 for the novel work on the use of Saliency Maps, generated using Deep Saliency network,  along with the thermal images to improve the daytime performance on thermal images for the task of Pedestrian Detection. 
+
+More information about this project can be found on our project [website](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/)
+
 ### Natural Language Processing Research Intern
-***Bayer Business Services, Leverkusen, Germany*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         June 2018-Present  
+***Bayer Business Services, Leverkusen, Germany*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         June 2018-August 2018  
 -	Identifying use cases of pharmaceutical products of Bayer using classification algorithms on their text corpus of medical data  
 -	Prototyping the development of a **Generative Chatbot model** to automate the process of answering the questions asked by medicine practitioners, pharmacists, pharamaceutical  sales representatives and patients.
 
