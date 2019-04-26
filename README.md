@@ -23,7 +23,7 @@ Fall 2017 - Started Masters in Computer Science at University of Massachsetts, A
 
 Worked on the task of [Pedestrian detection](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/) in Multispectral Images.
 
-I was advised by Dr.Madalina Fiterau[ https://www.cics.umass.edu/people/fiterau-brostean-madalina] and Dr. Tauhidur Rahman[http://www.tauhidurrahman.com/]  
+I was advised by [Dr.Madalina Fiterau] https://www.cics.umass.edu/people/fiterau-brostean-madalina] and [Dr. Tauhidur Rahman](http://www.tauhidurrahman.com/)  
 
 Recently, our paper got accepted in PBVS workshop at  CVPR 2019 for the novel work on the use of Saliency Maps, generated using Deep Saliency network,  along with the thermal images to improve the daytime performance on thermal images for the task of Pedestrian Detection. 
 
