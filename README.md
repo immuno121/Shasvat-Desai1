@@ -19,7 +19,7 @@ Fall 2017 - Started Masters in Computer Science at University of Massachsetts, A
 
 ## EXPERIENCE
 ### Research Assistant at the Information-Fusion-Lab
-***College of Information and Computer Sciences, UMass Amherst*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        September 2018-Present  
+***College of Information and Computer Sciences, UMass Amherst*** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        September 2018-Present  
 
 Worked on the task of [Pedestrian detection](https://information-fusion-lab-umass.github.io/Salient-Pedestrian-Detection/) in Multispectral Images.
 
