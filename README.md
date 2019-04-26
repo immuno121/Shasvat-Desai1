@@ -8,14 +8,14 @@ My areas of interests include the application of Machine Learning and Computer V
 My comprehensive resume is available [here](https://github.com/Shasvat-Desai/Shasvat-Desai/blob/master/Shasvat_Desai_Resume.pdf). 
 
 ## NEWS
-April 2019 - Will start working as a Software Engineer(Computer Vision) at [Orbital Insights,Boston MA](https://orbitalinsight.com/)
+April 2019 - Will start working as a Software Engineer(Computer Vision) at [Orbital Insights,Boston MA](https://orbitalinsight.com/),
 
 April 2019 - Our [paper](https://arxiv.org/pdf/1904.06859.pdf) Pedestrian Detection in Thermal Images using Saliency Maps accepted to the IEEE Workshop on Perception Beyond the Visible Spectrum at CVPR, 2019 (Long Beach, California).
 Authors:[Debasmita Ghose](https://github.com/DebasmitaGhose/Debasmita-Ghose),[Deep Chakrobarty](https://deepc94.github.io/),[Sneha Bhattachrya](https://github.com/snehabhattacharya),
 
-Summer 2018 - Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with BayerBusiness Services GmBH, Colonge, Germany
+Summer 2018 - Received the DAAD RISE Professional Scholarship - 2018 to pursue a research internship with BayerBusiness Services GmBH, Colonge, Germany,
 
-Fall 2017 - Started Masters in Computer Science at University of Massachsetts, Amherst
+Fall 2017 - Started Masters in Computer Science at University of Massachsetts, Amherst,
 
 ## EXPERIENCE
 ### Research Assistant at the Information-Fusion-Lab
